@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Watch Website https://cryptocurrency-gaming.vercel.app/
+https://cryptocurrency-gaming.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
